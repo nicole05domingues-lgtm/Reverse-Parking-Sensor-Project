@@ -18,8 +18,8 @@ COMPONENTS:
 - USB cable
 
 HOW IT WORKS THE SYSTEM:
-1.Sensors measure distance continuously
-2.Distance < threshold → Red LED (Occupied)
-3.Distance > threshold → Green LED (Available)
-4.Repeats automatically
+1. Sensors measure distance continuously
+2. Distance < threshold → Red LED (Occupied)
+3. Distance > threshold → Green LED (Available)
+4. Repeats automatically
 
